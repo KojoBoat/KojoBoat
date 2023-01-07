@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KojoBoat&show_icons=true&theme=radical)
 ### Hi there 👋, I'm Christian (Chris)..!
 I'm a Software Engineer with web development experience, and a special focus on server-side development using C# .NET Core and Angular technologies.
 
