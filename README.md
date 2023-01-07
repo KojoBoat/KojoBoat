@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Christian (Chris)..!
+I'm a Software Engineer with web development experience, and a special focus on server-side development using C# .NET Core and Angular technologies.
 
-<!--
-**KojoBoat/KojoBoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m interested in deveops, web, blockchain and mobile development.
+- 🌱 I am proficient at .NET for API development, angular for frontend development.
+- 👀 I am currently learning about the Cloud using AWS, Blockchain development, Solidity and the Web-3
+- 💞️ I am open to collaborate on fullstack web applications, blockchain development in both startup and cooperate environments.
+- 🍻 I have little experience but familiar with Python, Php, Java and Javascript.
+- 📫 Reach me via email: egyirchristian06@gmail.com
+- ⚡ Fun fact: I am the curious type.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills and Tools
+- <strong>Languages</strong>: C#, Php, Python, Java
+- <strong>Frameworks/Libraries</strong>: .NET (EF, AutoMapper, XUnit, SignalR), Angular (Jasmine), Flask, Spring Boot
+- <strong>Databases</strong>: PostgreSQL, Azure CosmosDB, MySQL
+- <strong>API</strong>: RESTful, SOAP
+- <strong>IDEs</strong>: Visual Studio, Visual Studio Code, IntelliJ
+- <strong>Methodologies</strong>: Automated Software Testing, SOLID principles, OOP concepts, Microservices, Agile practices.
